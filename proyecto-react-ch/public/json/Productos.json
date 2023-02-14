@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Camiseta",
+        "marca": "gef",
+        "precio": 30000,
+        "stock": 24,
+        "img": "camiseta.webp"
+    },
+    {
+        "id": 2,
+        "idCategoria": 2,
+        "nombre": "Camiseta Azul",
+        "marca": "gef",
+        "precio": 30000,
+        "stock": 12,
+        "img": "camiseta_azul.webp"
+    },
+    {
+        "id": 3,
+        "idCategoria": 3,
+        "nombre": "Camiseta Azul Oscuro" ,
+        "marca": "gef",
+        "precio": 30000,
+        "stock": 12,
+        "img": "camiseta_azul_oscuro.webp"
+    },
+    {
+        "id": 4,
+        "idCategoria": 4,
+        "nombre": "Camiseta Marron" ,
+        "marca": "gef",
+        "precio": 30000,
+        "stock": 12,
+        "img": "camiseta_marron.webp"
+    },
+    {
+        "id": 5,
+        "idCategoria": 5,
+        "nombre": "Camiseta Negra" ,
+        "marca": "gef",
+        "precio": 30000,
+        "stock": 24,
+        "img": "camiseta_negra.jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria": 6,
+        "nombre": "Camiseta Roja" ,
+        "marca": "gef",
+        "precio": 30000,
+        "stock": 18,
+        "img": "camiseta_roja.webp"
+    },
+    {
+        "id": 7,
+        "idCategoria": 7,
+        "nombre": "Camiseta Verde" ,
+        "marca": "gef",
+        "precio": 30000,
+        "stock": 12,
+        "img": "camiseta_verde.webp"
+    },
+    {
+        "id": 8,
+        "idCategoria": 8,
+        "nombre": "Joggeers Cream" ,
+        "marca": "Nike",
+        "precio": 70000,
+        "stock": 18,
+        "img": "joggers_cream.webp"
+    },
+    {
+        "id": 9,
+        "idCategoria": 9,
+        "nombre": "Joggers Beige" ,
+        "marca": "Nike",
+        "precio": 70000,
+        "stock": 32,
+        "img": "joggers_beige.webp"
+    },
+    {
+        "id": 10,
+        "idCategoria": 10,
+        "nombre": "Joggers Negro " ,
+        "marca": "Nike",
+        "precio": 30000,
+        "stock": 12,
+        "img": "joggers_negro.webp"
+    }
+]

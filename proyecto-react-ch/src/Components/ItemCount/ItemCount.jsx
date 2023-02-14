@@ -1,8 +1,7 @@
-import React from 'react';
 import { useState } from "react"
 export const ItemCount = ({ValInicial, stock}) => {
 
-  const [contador, setContador] = useState(ValInicial)
+  const [contador, setContador] = useState(ValInicial) 
   
   const sumar = () => contador < stock && setContador(contador + 1)
   const restar = () =>contador > ValInicial && setContador(contador - 1)
@@ -15,5 +14,3 @@ export const ItemCount = ({ValInicial, stock}) => {
     </div>
   )
 }
-
-export default ItemCount;

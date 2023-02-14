@@ -1,15 +1,15 @@
-import React from "react";
-import Navbar from "../Components/Navbar/Navbar";
-// import ItemListContainer from "./ItemListContainer/ItemListContainer";
-import ItemCount from "./ItemCount/ItemCount";
-const App = () => {
+import './App.css'; 
+
+import  Navbar from './Navbar/Navbar';
+import { ItemListContainer } from './ItemListContainer/ItemListContainer';
+
+
+export const App = () => {
   return (
     <>
-      <Navbar />
-      <ItemCount ValInicial={1} stock={17}/>
-      {/* <ItemListContainer greeting={"klk"}/> */}
+      <Navbar/> 
+      <ItemListContainer/>   
+    
     </>
-  );
-};
-
-export default App;
+  )
+}

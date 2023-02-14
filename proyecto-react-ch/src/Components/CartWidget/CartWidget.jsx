@@ -3,9 +3,9 @@ import React from 'react';
 const CartWidget = ({cantCarrito}) => {
     return (
         <>
-           <i class="fa-solid fa-cart-shopping"></i> 
-           <p>{cantCarrito}</p>
-        </>
+        <button className="btn btn-dark">Carrito</button>
+        <p>{cantCarrito}</p>
+      </>
     );
 }
 
