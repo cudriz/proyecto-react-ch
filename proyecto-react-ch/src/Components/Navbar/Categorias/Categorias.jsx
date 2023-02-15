@@ -6,9 +6,9 @@ export const Categorias = () => {
             <button className="btn btn-dark">Categorias</button>
           </a>
           <ul className="dropdown-menu">
-            <li><Link className="dropdown-item" to={'/category/1'}>Camisetas</Link></li>
-            <li><Link className="dropdown-item" to={'/category/2'}>Joggers</Link></li>
-            <li><Link className="dropdown-item" to={'/category/3'}>Calzado</Link></li>
+            <li><Link className="dropdown-item" to={'/category/Camisetas'}>Camisetas</Link></li>
+            <li><Link className="dropdown-item" to={'/category/Joggers'}>Joggers</Link></li>
+            <li><Link className="dropdown-item" to={'/category/Tenis'}>Calzado</Link></li>
            
           </ul>
     </li>

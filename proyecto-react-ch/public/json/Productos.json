@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "idCategoria": 1,
+        "idCategoria": "Camisetas",
         "nombre": "Camiseta",
         "marca": "gef",
         "precio": 30000,
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "idCategoria": 1,
+        "idCategoria": "Camisetas",
         "nombre": "Camiseta Azul",
         "marca": "gef",
         "precio": 30000,
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "idCategoria": 1,
+        "idCategoria": "Camisetas",
         "nombre": "Camiseta Azul Oscuro" ,
         "marca": "gef",
         "precio": 30000,
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "idCategoria": 1,
+        "idCategoria": "Camisetas",
         "nombre": "Camiseta Marron" ,
         "marca": "gef",
         "precio": 30000,
@@ -37,7 +37,7 @@
     },
     {
         "id": 5,
-        "idCategoria": 1,
+        "idCategoria": "Camisetas",
         "nombre": "Camiseta Negra" ,
         "marca": "gef",
         "precio": 30000,
@@ -46,7 +46,7 @@
     },
     {
         "id": 6,
-        "idCategoria": 1,
+        "idCategoria": "Camisetas",
         "nombre": "Camiseta Roja" ,
         "marca": "gef",
         "precio": 30000,
@@ -55,7 +55,7 @@
     },
     {
         "id": 7,
-        "idCategoria": 1,
+        "idCategoria": "Camisetas",
         "nombre": "Camiseta Verde" ,
         "marca": "gef",
         "precio": 30000,
@@ -64,7 +64,7 @@
     },
     {
         "id": 8,
-        "idCategoria": 2,
+        "idCategoria": "Joggers",
         "nombre": "Joggeers Cream" ,
         "marca": "Nike",
         "precio": 70000,
@@ -73,7 +73,7 @@
     },
     {
         "id": 9,
-        "idCategoria": 2,
+        "idCategoria": "Joggers",
         "nombre": "Joggers Beige" ,
         "marca": "Nike",
         "precio": 70000,
@@ -82,7 +82,7 @@
     },
     {
         "id": 10,
-        "idCategoria": 2,
+        "idCategoria": "Joggers",
         "nombre": "Joggers Negro " ,
         "marca": "Nike",
         "precio": 70000,
@@ -92,7 +92,7 @@
    
     {
         "id": 11,
-        "idCategoria": 3,
+        "idCategoria": "Tenis",
         "nombre": "Tenis Blancos Botas" ,
         "marca": "Nike",
         "precio": 90000,

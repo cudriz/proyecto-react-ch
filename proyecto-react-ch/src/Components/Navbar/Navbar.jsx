@@ -13,7 +13,7 @@ export const Navbar = () => {
           <Secciones/>
           <Categorias/>
       </ul>
-      <CartWidget cantCarrito={10}/>
+      <CartWidget cantCarrito={21}/>
     </div>
   </div>
 </nav>
