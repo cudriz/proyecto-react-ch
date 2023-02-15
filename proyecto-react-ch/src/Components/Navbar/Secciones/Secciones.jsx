@@ -1,25 +1,10 @@
-import React from "react";
-
-const Secciones = () => {
+import { Link } from "react-router-dom"
+export const Secciones = () => {
   return (
     <>
-      <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="#">
-          Home
-        </a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">
-          Link
-        </a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">
-          Link
-        </a>
-      </li>
+        <li className="nav-item">
+          <Link className="nav-link" to={'/'}><button className="btn btn-dark">Home</button></Link>
+        </li>
     </>
-  );
-};
-
-export default Secciones;
+  )
+}

@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "idCategoria": 2,
+        "idCategoria": 1,
         "nombre": "Camiseta Azul",
         "marca": "gef",
         "precio": 30000,
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "idCategoria": 3,
+        "idCategoria": 1,
         "nombre": "Camiseta Azul Oscuro" ,
         "marca": "gef",
         "precio": 30000,
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "idCategoria": 4,
+        "idCategoria": 1,
         "nombre": "Camiseta Marron" ,
         "marca": "gef",
         "precio": 30000,
@@ -37,7 +37,7 @@
     },
     {
         "id": 5,
-        "idCategoria": 5,
+        "idCategoria": 1,
         "nombre": "Camiseta Negra" ,
         "marca": "gef",
         "precio": 30000,
@@ -46,7 +46,7 @@
     },
     {
         "id": 6,
-        "idCategoria": 6,
+        "idCategoria": 1,
         "nombre": "Camiseta Roja" ,
         "marca": "gef",
         "precio": 30000,
@@ -55,7 +55,7 @@
     },
     {
         "id": 7,
-        "idCategoria": 7,
+        "idCategoria": 1,
         "nombre": "Camiseta Verde" ,
         "marca": "gef",
         "precio": 30000,
@@ -64,7 +64,7 @@
     },
     {
         "id": 8,
-        "idCategoria": 8,
+        "idCategoria": 2,
         "nombre": "Joggeers Cream" ,
         "marca": "Nike",
         "precio": 70000,
@@ -73,7 +73,7 @@
     },
     {
         "id": 9,
-        "idCategoria": 9,
+        "idCategoria": 2,
         "nombre": "Joggers Beige" ,
         "marca": "Nike",
         "precio": 70000,
@@ -82,11 +82,22 @@
     },
     {
         "id": 10,
-        "idCategoria": 10,
+        "idCategoria": 2,
         "nombre": "Joggers Negro " ,
         "marca": "Nike",
-        "precio": 30000,
+        "precio": 70000,
         "stock": 12,
         "img": "joggers_negro.webp"
+    },
+   
+    {
+        "id": 11,
+        "idCategoria": 3,
+        "nombre": "Tenis Blancos Botas" ,
+        "marca": "Nike",
+        "precio": 90000,
+        "stock": 6,
+        "img": "tenis_blancos_botas.webp"
     }
+    
 ]
