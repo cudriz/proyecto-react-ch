@@ -1,5 +1,5 @@
 import { useState } from "react"
-export const ItemCount = ({ValInicial, stock}) => {
+export const ItemCount = ({ValInicial, stock, onAdd}) => {
 
   const [contador, setContador] = useState(ValInicial) 
   
@@ -10,7 +10,7 @@ export const ItemCount = ({ValInicial, stock}) => {
       <button className="btn btn-dark" onClick={()=> restar()}>-</button> 
       {contador}
       <button className="btn btn-dark" onClick={()=> sumar()}>+</button>
-      <button className="btn btn-light">Agregar al Carrito</button>
+      <button className="btn btn-light" onClick={()=> onAdd(contador)}>Agregar al Carrito</button>
     </div>
   )
 }
