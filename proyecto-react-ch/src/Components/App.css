@@ -15,6 +15,7 @@
     margin-bottom: 3px;
     text-align: center;
 }
+<<<<<<< HEAD
 .cartContainer {
     margin-top: 3%;
     margin-left: 26,5%;
@@ -26,6 +27,13 @@
     margin: 4px;
 }
 
+=======
+.cardBodyDark {
+    background-color: hsl(0, 0%, 33%);
+    margin-bottom: 3px;
+    text-align: center;
+}
+>>>>>>> 03de08b3df2b92e33030020df14a623d23a1b2eb
 
 img {
     margin-top: 3px;
@@ -35,4 +43,18 @@ img {
 .itemDetail {
     max-width: 760px;
     margin-top: 20px;
+
+}
+.itemDetailBodyDark {
+    background: hsl(0, 0%, 33%);
+    color:white;
+}
+
+.contForm {
+    margin-top: 20px;
+}
+
+.darkMode {
+    background-color: black;
+    color:gainsboro;
 }
