@@ -29,8 +29,6 @@
 .divButtons button {
     margin: 4px;
 }
-
-
 img {
     margin-top: 3px;
     height: 100%;
@@ -41,16 +39,20 @@ img {
     margin-top: 20px;
 
 }
-.itemDetailBodyDark {
-    background: hsl(0, 0%, 33%);
-    color:white;
-}
 
 .contForm {
     margin-top: 20px;
 }
-
-.darkMode {
-    background-color: black;
-    color:gainsboro;
+.nav-link {
+    margin: 6px;
 }
+
+form {
+    padding: 20px;
+    border-radius: 5px;
+    border-color: black;
+  
+  }
+  .form-label {
+    font-weight: lighter;
+  }
