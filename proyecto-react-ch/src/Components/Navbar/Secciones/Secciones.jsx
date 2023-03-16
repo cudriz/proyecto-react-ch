@@ -4,7 +4,7 @@ export const Secciones = React.memo(() => {
   return (
     <>
         <li className="nav-item">
-          <Link className="nav-link" to={'/'}><button className="btn btn-dark">Home</button></Link>
+          <Link className="nav-link" to={'/'}><button className="btn btn-primary">Home</button></Link>
         </li>
     </>
   )
